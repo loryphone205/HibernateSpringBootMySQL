@@ -9,7 +9,7 @@ Frontend:
 - Angular
 - TypeScript
 - little bit of CSS and Angular Material <br>
-<hr>
+
 If you want to try the application yourself:
 ```
 java -jar HibernatePR-0.0.1-SNAPSHOT.jar
