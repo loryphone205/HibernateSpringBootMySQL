@@ -2,7 +2,7 @@ This is just a simple Application that acts as a CRUD for the online hosted MySQ
 <br>
 Backend:
 - Java
-- Spring (Boot/Data) with Hibernate
+- Spring (Boot/Data/Web/Actuators) with Hibernate
 - MySQL for the DB <br>
 
 Frontend:
