@@ -10,7 +10,7 @@ Frontend:
 - TypeScript
 - little bit of CSS and Angular Material <br>
 
-If you want to try the application yourself:
+If you want to try the application yourself, just download the jar file and run this command:
 ```
 java -jar HibernatePR-0.0.1-SNAPSHOT.jar
 ```
